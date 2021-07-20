@@ -3,7 +3,7 @@ const FILES_TO_CACHE = [
   "/index.html",
   "/index.js",
   "/db.js",
-  "/style.css"];
+  "/styles.css"];
 
 const CACHE_NAME = 'static-cache-v13';
 const DATA_CACHE_NAME = 'data-cache-v8';
